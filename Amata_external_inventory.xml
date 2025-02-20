@@ -2,11 +2,11 @@
 <products>
   <product>
     <sku>LFC-0454-01</sku>
-    <stock>96</stock>
+    <stock>94</stock>
   </product>
   <product>
     <sku>LFC-0908-01</sku>
-    <stock>90</stock>
+    <stock>89</stock>
   </product>
   <product>
     <sku>LFE-0454-01</sku>
@@ -18,11 +18,11 @@
   </product>
   <product>
     <sku>LFM-0454-01</sku>
-    <stock>117</stock>
+    <stock>116</stock>
   </product>
   <product>
     <sku>LFM-0908-01</sku>
-    <stock>104</stock>
+    <stock>103</stock>
   </product>
   <product>
     <sku>HKN-0150-01</sku>
