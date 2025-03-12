@@ -2,31 +2,31 @@
 <products>
   <product>
     <sku>LFC-0454-01</sku>
-    <stock>94</stock>
+    <stock>80</stock>
   </product>
   <product>
     <sku>LFC-0908-01</sku>
-    <stock>89</stock>
+    <stock>72</stock>
   </product>
   <product>
     <sku>LFE-0454-01</sku>
-    <stock>88</stock>
+    <stock>69</stock>
   </product>
   <product>
     <sku>LFE-0908-01</sku>
-    <stock>86</stock>
+    <stock>73</stock>
   </product>
   <product>
     <sku>LFM-0454-01</sku>
-    <stock>116</stock>
+    <stock>99</stock>
   </product>
   <product>
     <sku>LFM-0908-01</sku>
-    <stock>103</stock>
+    <stock>84</stock>
   </product>
   <product>
     <sku>HKN-0150-01</sku>
-    <stock>0</stock>
+    <stock>86</stock>
   </product>
   <product>
     <sku>SFH-0750-01</sku>
